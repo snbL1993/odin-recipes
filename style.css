@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    color: white;
+}
+
+.title {
+    color: red;
+    text-align: center;
+    font-weight: bold;
+}
+
+.cookedrecipe {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 512px;
+    max-height: auto;
+}
